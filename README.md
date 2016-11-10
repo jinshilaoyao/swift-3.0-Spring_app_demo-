@@ -1,5 +1,12 @@
 ![](https://dl.dropboxusercontent.com/u/7990919/Crawler/SpringSwift3.jpg)
 
+
+1.核心动画展示，控制器透明化Demo
+2.具有异步下载图片的BUtton： AsyncButton
+3.view模糊化：BlurView
+4.扩展NSLayoutConstraint类，监听键盘弹出，修开约束。
+
+
 ## Updated for Swift 3.0
 Requires Xcode 8 and Swift 3.
 
